@@ -1,0 +1,11 @@
+{
+    "name": "cycScroll",
+    "version": "0.1.0",
+    "title": "Scrollbar plugin",
+    "author": {"name": "Bryan Cua"},
+    "licenses": [{"type": "MIT", "url": "http://opensource.org/licenses/MIT"}],
+    "dependencies": {"jquery": "2.0.2", "cycDrag": "0.1.2"},
+    "description": "$.fn.scrollbar creates horizontal and vertical scrollbars for objects with overflow:hidden. The function only creates a scrollbar scaled to show length of contents, but does not implement any 'scrolling' functionality. Rather, it will provide the user with two events: 'scrollbar::dragX' and 'scrollbar::dragY' which return dx and dy of the scroll.",
+    "homepage": "http://js.lovelotte.net/jQ/scrollbar",
+    "demo": "http://js.lovelotte.net/jQ/scrollbar/demo"
+}
